@@ -1,0 +1,32 @@
+Options -Indexes
+Options -MultiViews
+
+<Files ~ "\.(inc|ttf)$">
+	<IfModule mod_authz_core.c>
+		Require all denied
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		Deny from all
+	</IfModule>
+</Files>
+
+<IfModule mod_php5.c>
+	php_value max_input_vars 9999
+	php_value suhosin.post.max_vars 9999
+	php_value suhosin.request.max_vars 9999
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+#	RewriteBase /
+	RewriteRule ^sitemap\.xml$ sitemap.php [L,NC]
+	RewriteRule image/[^/]+/(\d+)-.*\.(gif|jpe?g|png)$ image.php?id=$1 [L,NC]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond $1 !^(favicon\.ico|robots\.txt|sitemap\.php|sitemap\.xml)
+	RewriteRule (.*) index.php?q=$1 [QSA,L]
+</IfModule>
+
+<IfModule mod_security.c>
+	SecFilterEngine Off
+</IfModule>

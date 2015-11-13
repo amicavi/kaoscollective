@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:22
+msgid "Zero Comments"
+msgstr ""
+
+#: comments.php:22 content-single.php:32 content.php:58 functions.php:320 lib\includes\theme-functions.php:1019
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:22 content-single.php:32 content.php:58
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:63
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:71
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:76 comments.php:94
+msgid "Comment"
+msgstr ""
+
+#: comments.php:83
+msgid "Name"
+msgstr ""
+
+#: comments.php:86
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: content-portfolio.php:38
+msgid "Project Description"
+msgstr ""
+
+#: content-portfolio.php:45
+msgid "Categories"
+msgstr ""
+
+#: content-portfolio.php:51
+msgid "Skills"
+msgstr ""
+
+#: content-portfolio.php:57
+msgid "Project URL"
+msgstr ""
+
+#: content-portfolio.php:63
+msgid "Copyright"
+msgstr ""
+
+#: content-portfolio.php:77 content-single.php:55
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: content-single.php:32 content.php:58 functions.php:316 lib\includes\theme-functions.php:1013
+msgid "No Comments"
+msgstr ""
+
+#: content-single.php:39
+msgid "Tags"
+msgstr ""
+
+#: content-single.php:46 lib\includes\theme-functions.php:1263
+msgid "About The Author"
+msgstr ""
+
+#: content-title.php:23 content.php:4
+msgid "Search Results"
+msgstr ""
+
+#: content-title.php:31 content.php:11
+msgid "Daily Archives:"
+msgstr ""
+
+#: content-title.php:33 content.php:13
+msgid "Monthly Archives:"
+msgstr ""
+
+#: content-title.php:35 content.php:15
+msgid "Yearly Archives:"
+msgstr ""
+
+#: content-title.php:37 content.php:17
+msgid "Posted By:"
+msgstr ""
+
+#: content-title.php:39 content.php:19 lib\includes\theme-functions.php:1082
+msgid "Blog Archives"
+msgstr ""
+
+#: content.php:69
+msgid "« Older Entries"
+msgstr ""
+
+#: content.php:70
+msgid "Newer Entries »"
+msgstr ""
+
+#: content.php:76 portfolio-loop.php:198
+msgid "Not Found"
+msgstr ""
+
+#: content.php:77
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: functions.php:318
+msgid " Comments"
+msgstr ""
+
+#: functions.php:410
+msgid "Zebra Themes - Recent News"
+msgstr ""
+
+#: functions.php:604
+msgid "Title"
+msgstr ""
+
+#: functions.php:612
+msgid "Category"
+msgstr ""
+
+#: functions.php:621
+msgid "Number of posts to show"
+msgstr ""
+
+#: functions.php:628
+msgid "Show post excerpt"
+msgstr ""
+
+#: functions.php:633
+msgid "Length of post excerpt:"
+msgstr ""
+
+#: functions.php:641
+msgid "Show post date"
+msgstr ""
+
+#: functions.php:648
+msgid "Show comments count"
+msgstr ""
+
+#: functions.php:656
+msgid "Show post thumbnail"
+msgstr ""
+
+#: functions.php:661
+msgid "Thumbnail dimensions"
+msgstr ""
+
+#: portfolio-loop.php:200
+msgid "Sorry, but you are looking for something that isn\"
+msgstr ""
+
+#: woocommerce.php:20 woocommerce.php:22
+msgid "Shop"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:40 lib\includes\wp-pagenavi.php:40
+msgid "PageNavi"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:189
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:192
+msgid "&laquo; First"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:193
+msgid "Last &raquo;"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:194
+msgid "&raquo;"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:195
+msgid "&laquo;"
+msgstr ""
+
+#: lib\includes\wp-pagenavi.php:196 lib\includes\wp-pagenavi.php:197
+msgid "..."
+msgstr ""
+
+#: lib\includes\theme-functions.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: lib\includes\theme-functions.php:13
+msgid "General"
+msgstr ""
+
+#: lib\includes\theme-functions.php:14 lib\includes\theme-functions.php:728 lib\includes\theme-functions.php:741 lib\includes\theme-functions.php:749 lib\includes\theme-functions.php:761 lib\includes\theme-functions.php:774 lib\includes\theme-functions.php:782
+msgid "Home"
+msgstr ""
+
+#: lib\includes\theme-functions.php:15
+msgid "Blog"
+msgstr ""
+
+#: lib\includes\theme-functions.php:16
+msgid "Slideshow"
+msgstr ""
+
+#: lib\includes\theme-functions.php:17
+msgid "Navigation"
+msgstr ""
+
+#: lib\includes\theme-functions.php:19
+msgid "Footer"
+msgstr ""
+
+#: lib\includes\theme-functions.php:20
+msgid "Style"
+msgstr ""
+
+#: lib\includes\theme-functions.php:890
+msgid "Primary Widget Area"
+msgstr ""
+
+#: lib\includes\theme-functions.php:899
+msgid "Secondry Widget Area"
+msgstr ""
+
+#: lib\includes\theme-functions.php:908
+msgid "Contact US Widget Area"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1016
+msgid "Comments"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1050
+msgid "404 - Not Found"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1053
+msgid "Search"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1057
+msgid "Archives"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1074
+msgid "Category Archive for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1076
+msgid "Daily Archive for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1078
+msgid "Monthly Archive for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1080
+msgid "Yearly Archive for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1089
+msgid "Author Archive for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1091
+msgid "Tag Archives for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1094
+msgid "Archives for: \"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1131
+msgid "Search..."
+msgstr ""
+
+#: lib\includes\theme-functions.php:1133
+msgid "Go"
+msgstr ""
+
+#: lib\includes\theme-functions.php:1303
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib\includes\theme-functions.php:1308
+msgid "<span class=\"comment_author\">%1$s</span><span class=\"comment_date\">%2$s</span>"
+msgstr ""
+
